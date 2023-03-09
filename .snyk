@@ -1,5 +1,5 @@
 # Exclude specs from static analysis
 exclude:
-  global:
-    - Gemfile
-    - Gemfile.lock
+ global:
+  - Gemfile
+  - Gemfile.lock
